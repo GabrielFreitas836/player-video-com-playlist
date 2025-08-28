@@ -3,7 +3,9 @@
   "version": "1.0.0",
   "description": "Repositório relacionado com a atividade do professor Marcelo de revisão de orientação a objetos para ser entregue no dia 28 de Agosto de 2025",
   "main": "index.js",
+  "type": "module",
   "scripts": {
+    "start": "node dist/main.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
