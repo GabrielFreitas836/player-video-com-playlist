@@ -1,0 +1,25 @@
+{
+  "name": "player-video-com-playlist",
+  "version": "1.0.0",
+  "description": "Repositório relacionado com a atividade do professor Marcelo de revisão de orientação a objetos para ser entregue no dia 28 de Agosto de 2025",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GabrielFreitas836/player-video-com-playlist.git"
+  },
+  "keywords": [],
+  "author": "Gabriel da Silva Freitas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GabrielFreitas836/player-video-com-playlist/issues"
+  },
+  "homepage": "https://github.com/GabrielFreitas836/player-video-com-playlist#readme",
+  "dependencies": {
+    "@types/node": "^24.3.0",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.9.2"
+  }
+}
